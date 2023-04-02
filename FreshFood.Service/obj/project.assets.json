@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FreshFood.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FreshFood.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreshFood.Core.dll": {}
+        }
+      },
+      "FreshFood.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "FreshFood.Core": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/FreshFood.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FreshFood.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreshFood.Core/1.0.0": {
+      "type": "project",
+      "path": "../FreshFood.Core/FreshFood.Core.csproj",
+      "msbuildProject": "../FreshFood.Core/FreshFood.Core.csproj"
+    },
+    "FreshFood.Data/1.0.0": {
+      "type": "project",
+      "path": "../FreshFood.Data/FreshFood.Data.csproj",
+      "msbuildProject": "../FreshFood.Data/FreshFood.Data.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FreshFood.Data >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\HP\\source\\repos\\FreshFood.App\\FreshFood.Service\\FreshFood.Service.csproj",
+      "projectName": "FreshFood.Service",
+      "projectPath": "C:\\Users\\HP\\source\\repos\\FreshFood.App\\FreshFood.Service\\FreshFood.Service.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\HP\\source\\repos\\FreshFood.App\\FreshFood.Service\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\HP\\source\\repos\\FreshFood.App\\FreshFood.Data\\FreshFood.Data.csproj": {
+              "projectPath": "C:\\Users\\HP\\source\\repos\\FreshFood.App\\FreshFood.Data\\FreshFood.Data.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

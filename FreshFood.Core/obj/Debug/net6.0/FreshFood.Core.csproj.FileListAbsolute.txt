@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\bin\Debug\net6.0\FreshFood.Core.deps.json
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\bin\Debug\net6.0\FreshFood.Core.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\bin\Debug\net6.0\FreshFood.Core.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.AssemblyInfo.cs
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\refint\FreshFood.Core.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\FreshFood.Core.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Core\obj\Debug\net6.0\ref\FreshFood.Core.dll

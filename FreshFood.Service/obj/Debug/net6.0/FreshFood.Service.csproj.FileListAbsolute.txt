@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Service.deps.json
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Service.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Service.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.AssemblyInfo.cs
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\refint\FreshFood.Service.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\ref\FreshFood.Service.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Core.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Data.dll
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Data.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\bin\Debug\net6.0\FreshFood.Core.pdb
+C:\Users\HP\source\repos\FreshFood.App\FreshFood.Service\obj\Debug\net6.0\FreshFood.Service.csproj.CopyComplete

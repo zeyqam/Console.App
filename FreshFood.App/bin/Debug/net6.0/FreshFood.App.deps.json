@@ -1,0 +1,62 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FreshFood.App/1.0.0": {
+        "dependencies": {
+          "FreshFood.Service": "1.0.0"
+        },
+        "runtime": {
+          "FreshFood.App.dll": {}
+        }
+      },
+      "FreshFood.Core/1.0.0": {
+        "runtime": {
+          "FreshFood.Core.dll": {}
+        }
+      },
+      "FreshFood.Data/1.0.0": {
+        "dependencies": {
+          "FreshFood.Core": "1.0.0"
+        },
+        "runtime": {
+          "FreshFood.Data.dll": {}
+        }
+      },
+      "FreshFood.Service/1.0.0": {
+        "dependencies": {
+          "FreshFood.Data": "1.0.0"
+        },
+        "runtime": {
+          "FreshFood.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreshFood.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreshFood.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreshFood.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreshFood.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
